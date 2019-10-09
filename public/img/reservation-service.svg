@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>预约服务 copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="60.2" height="60.2"></rect>
+    </defs>
+    <g id="图标合集" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="服务官网图标" transform="translate(-226.000000, -352.000000)">
+            <g id="预约服务" transform="translate(220.000000, 346.000000)">
+                <g id="Group-2">
+                    <g>
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Mask"></g>
+                        <g mask="url(#mask-2)" id="Group-9">
+                            <g transform="translate(12.622000, 12.020000)">
+                                <g>
+                                    <path d="M3.0515603,3.05438843 L3.0515603,45.1056116 L43.9044397,45.1056116 L43.9044397,3.05438843 L3.0515603,3.05438843 Z M0,0 L46.956,0 L46.956,48.16 L0,48.16 L0,0 Z" id="Rectangle-8" fill="#000000" fill-rule="nonzero"></path>
+                                    <path d="M23.478,37.4437934 C28.7273032,37.4437934 32.9844397,33.1767335 32.9844397,27.9109091 C32.9844397,22.6450846 28.7273032,18.3780248 23.478,18.3780248 C18.2286968,18.3780248 13.9715603,22.6450846 13.9715603,27.9109091 C13.9715603,33.1767335 18.2286968,37.4437934 23.478,37.4437934 Z M23.478,40.4981818 C16.5424081,40.4981818 10.92,34.8626679 10.92,27.9109091 C10.92,20.9591503 16.5424081,15.3236364 23.478,15.3236364 C30.4135919,15.3236364 36.036,20.9591503 36.036,27.9109091 C36.036,34.8626679 30.4135919,40.4981818 23.478,40.4981818 Z" id="Oval-2" fill="#000000" fill-rule="nonzero"></path>
+                                    <polygon id="Rectangle-2" fill="#000000" points="1.638 7.66181818 45.318 7.66181818 45.318 10.7265455 1.638 10.7265455"></polygon>
+                                    <polygon id="Rectangle-10" fill="#000000" fill-rule="nonzero" points="28.938 27.8064393 28.938 30.7517425 21.187712 30.7517425 21.187712 21.8909091 24.130288 21.8909091 24.130288 27.8064393"></polygon>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

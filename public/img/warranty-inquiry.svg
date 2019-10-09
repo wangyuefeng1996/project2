@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>vip服务3 copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="60" height="60"></rect>
+        <rect id="path-3" x="0" y="0" width="60" height="60"></rect>
+    </defs>
+    <g id="图标合集" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="服务官网图标" transform="translate(-850.000000, -486.000000)">
+            <g id="vip服务3" transform="translate(850.000000, 486.000000)">
+                <g id="vip服务4">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Mask"></g>
+                    <g id="vip服务3" mask="url(#mask-2)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <g id="Mask"></g>
+                        <g id="Group-75" mask="url(#mask-4)">
+                            <g transform="translate(4.200000, 4.200000)">
+                                <g id="分组" stroke-width="1" fill="none" fill-rule="evenodd">
+                                    <path d="M4.03275826,20.0640522 L8.24516432,47.28 L43.4811857,47.28 L47.5945536,20.0369722 L38.0524249,25.0526066 L25.7952003,13.3544645 L13.4826362,25.0531111 L4.03275826,20.0640522 Z M5.57091882,50.4 L-4.26325641e-14,14.4068328 L12.9578883,21.2479443 L23.9962015,10.7600131 L27.6331795,10.7957175 L38.5849435,21.2479443 L51.6,14.4068328 L46.1654669,50.4 L5.57091882,50.4 Z" id="路径-3" fill="#000000" fill-rule="nonzero"></path>
+                                    <path d="M25.8277148,10.4971875 C27.8436853,10.4971875 29.4802148,8.85773039 29.4802148,6.83257212 C29.4802148,4.80741384 27.8436853,3.16795673 25.8277148,3.16795673 C23.8117443,3.16795673 22.1752148,4.80741384 22.1752148,6.83257212 C22.1752148,8.85773039 23.8117443,10.4971875 25.8277148,10.4971875 Z M25.8277148,13.6171875 C22.0873664,13.6171875 19.0552148,10.5796117 19.0552148,6.83257212 C19.0552148,3.08553251 22.0873664,0.0479567308 25.8277148,0.0479567308 C29.5680633,0.0479567308 32.6002148,3.08553251 32.6002148,6.83257212 C32.6002148,10.5796117 29.5680633,13.6171875 25.8277148,13.6171875 Z" id="椭圆形" fill="#000000" fill-rule="nonzero"></path>
+                                </g>
+                                <rect id="矩形" fill="#000000" fill-rule="nonzero" x="24.2683594" y="28.2398437" width="3.12" height="10.8"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
