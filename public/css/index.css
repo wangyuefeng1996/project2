@@ -1,0 +1,436 @@
+.ce .ce-mate30-series-4g {
+  margin-bottom: 12px;
+  position: relative;
+  overflow: hidden;
+}
+
+.ce .ce-mate30-series-5g {
+  margin-bottom: 12px;
+  position: relative;
+}
+
+.ce .ce-mate30-series-4g .bottom-banner {
+  height: 700px;
+  background: url(../img/web-v3.jpg) no-repeat top center;
+  background-size: cover;
+  position: relative;
+}
+
+.ce .ce-mate30-series-5g .bottom-banner {
+  height: 700px;
+  background: url(../img/web-v3\ \(1\).jpg) no-repeat top center;
+  background-size: cover;
+  position: relative;
+}
+
+.ce .ce-mate30-series-4g .btn_contain {
+  position: absolute;
+  top: 60%;
+  width: 100%;
+  max-width: 1300px;
+  left: 50%;
+  margin-left: 0;
+  transform: translate(-50%);
+}
+
+
+.ce .ce-mate30-series-5g .btn_contain {
+  position: absolute;
+  top: 65%;
+  width: 100%;
+  max-width: 1300px;
+  left: 50%;
+  margin-left: 0;
+  transform: translate(-50%);
+}
+
+.ce .btn_contain {
+  position: absolute;
+  max-width: 1060px;
+  width: 100%;
+  margin-left: 50%;
+  transform: translateX(-50%);
+  left: auto;
+  top: auto;
+}
+
+.ce .ce-mate30-series-4g .btn_contain .btn1 {
+  display: inline-block;
+  width: auto;
+  margin-left: 60.8%;
+  margin-right: 20px;
+}
+
+.ce .ce-mate30-series-5g .btn_contain .btn1 {
+  display: inline-block;
+  width: auto;
+  margin-left: 59.1%;
+  margin-right: 20px;
+}
+
+.ce .btn_contain .btn1 {
+  display: inline-block;
+  margin-right: 25px;
+  margin-right: 25px;
+  width: auto;
+}
+
+.ce .ce-mate30-series-4g .btn_contain .btn2,.ce .ce-mate30-series-5g .btn_contain .btn2 {
+  display: inline-block;
+  width: auto;
+  margin-right: 20px;
+}
+.ce .btn_contain .btn2 {
+  display: inline-block;
+  width: auto;
+}
+
+.ce .ce-mate30-series-4g .btn_contain .btn1 a,.ce .ce-mate30-series-5g .btn_contain .btn1 a {
+  width: auto;
+  background-color: transparent;
+}
+
+.ce .mb-1, .my-1 {
+  margin-bottom: 10px !important;
+}
+
+.ce .btn-outline-dark {
+  color: #323232!important;
+  background-color: transparent!important;
+  background-image: none!important;
+  border-color: #323232!important;
+}
+.ce .btn {
+  display: inline-block;
+  font-weight: 400;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  user-select: none;
+  border: 1px solid transparent;
+  padding: .5rem 1rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  border-radius: .25rem;
+  transition: all .15s ease-in-out;
+}
+.btn-outline-dark {
+  color: #323232;
+  background-color: transparent;
+  background-image: none;
+  border-color: #323232;
+}
+
+.ce .btn-outline-dark:hover {
+  color: #ef2f34!important;
+  border-color: #ef2f34!important;
+  background-color: transparent!important;
+}
+
+.ce .ce-porsche-design-mate30-rs {
+  margin-bottom: 12px;
+  position: relative;
+  margin-top: 12px;
+}
+
+.ce .ce-porsche-design-mate30-rs .bottom-banner {
+  height: 700px;
+  background: url(../img/web-v3\ \(4\).jpg) no-repeat top center;
+  background-size: cover;
+  position: relative;
+}
+
+.ce .ce-p30-series {
+  margin-bottom: 12px;
+  position: relative;
+}
+
+.ce .ce-p30-series .bottom-banner {
+  height: 700px;
+  background: url(../img/web-kv-v3.jpg) no-repeat top center;
+  background-size: cover;
+  position: relative;
+}
+
+.ce .ce-p30-series .btn_contain {
+  position: absolute;
+  top: 55%;
+  width: 100%;
+  text-align: center;
+  margin-left: 43.5%;
+  transform: translateX(-50%);
+  max-width: 1300px;
+}
+
+.ce .ce-p30-series .btn_contain .btn1 {
+  margin-left: 64%;
+}
+
+.ce .ce-nova5-series {
+  position: relative;
+  margin-top: 12px;
+}
+
+.ce .ce-nova5-series .bottom-banner {
+  height: 700px;
+  background: url(../img/nova5-series-pc.jpg) no-repeat top center;
+  background-size: cover;
+}
+
+.ce-nova5-series .btn-contain {
+  position: absolute;
+  max-width: 1160px;
+  left: 50%;
+  width: 100%;
+  transform: translateX(-50%);
+  bottom: 34%;
+}
+
+.ce-nova5-series .btn-contain .btn1 {
+  display: inline-block;
+  margin-left: 59.7%;
+}
+
+.ce-nova5-series .btn-contain .btn2 {
+  display: inline-block;
+  margin-left: 8%;
+}
+
+.ce .ce-v65 {
+  position: relative;
+  margin-top: 12px;
+}
+
+.ce .ce-v65 .bottom-banner {
+  height: 700px;
+  background: url(../img/web-v3\ \(5\).jpg) no-repeat top center;
+  background-size: cover;
+}
+
+.ce .ce-main {
+  padding: 6px 0;
+}
+
+.clearfix {
+  zoom: 1;
+}
+
+.clearfix:after {
+  content: ".";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+
+.ce .ce-main li {
+  width: 50%;
+  float: left;
+}
+
+.ce .ce-main li a {
+  display: block;
+  position: relative;
+  height: 600px;
+  text-align: center;
+  margin: 6px 6px 6px 12px;
+}
+
+
+
+
+
+@media screen and (max-width: 1024px){
+  .ce .ce-mate30-series-4g .bottom-banner {
+      height: 450px;
+      background: url(../img/pad.jpg) no-repeat top center;
+      background-size: cover;
+  }
+
+  .ce .ce-mate30-series-5g .bottom-banner {
+    height: 450px;
+    background: url(../img/pad-v1.png) no-repeat top center;
+    background-size: cover;
+  }
+
+  .ce .ce-mate30-series-5g .btn_contain {
+    top: 65%;
+  }
+
+  .ce .ce-mate30-series-4g .btn_contain .btn1 {
+    margin-left: 53%;
+    margin-right: 5px;
+  }
+
+  .ce .ce-mate30-series-4g .btn_contain .btn2,.ce .ce-mate30-series-5g .btn_contain .btn2 {
+    margin-right: 0;
+  }
+
+  .ce .ce-mate30-series-5g .btn_contain .btn1 {
+    margin-left: 51.5%;
+    margin-right: 5px;
+  }
+  .ce .ce-porsche-design-mate30-rs .bottom-banner {
+    height: 450px;
+    background: url(../img/pad.png) no-repeat top center;
+    background-size: cover;
+  }
+
+  .ce .ce-p30-series .bottom-banner {
+    height: 450px;
+    background: url(../img/pad-0905.jpg) no-repeat top center;
+    background-size: cover;
+  }
+  .ce .ce-p30-series .btn_contain .btn1 {
+    margin-left: 55%;
+    margin-right: 5px;
+    max-width: 760px;
+  }
+
+  .ce .ce-p30-series .btn_contain .btn {
+    font-size: .5rem;
+  }
+
+  .ce .ce-nova5-series .bottom-banner {
+    height: 390px;
+    background: url(../img/nova5-series-pad.jpg) no-repeat top center;
+    background-size: cover;
+  }
+
+  .ce-nova5-series .btn-contain {
+    max-width: 700px;
+    bottom: 31%;
+  }
+
+  .ce-nova5-series .btn-contain .btn1 {
+    margin-left: 57.5%;
+  }
+
+  .ce-nova5-series .btn-contain a {
+    padding: .25rem .5rem;
+    font-size: .875rem;
+    line-height: 1.58;
+    border-radius: .25rem;
+  }
+  .ce-nova5-series .btn-contain .btn2 {
+    margin-left: 1%;
+  }
+
+  .ce .ce-v65 .bottom-banner {
+    height: 450px;
+    background: url(../img/pad\ \(1\).jpg) no-repeat top center;
+    background-size: cover;
+  }
+}
+
+
+@media screen and (max-width: 767px){
+  .ce .ce-main li {
+    width: 100%;
+    float: none;
+    margin-bottom: 12px;
+  }
+
+  .ce .ce-main li a {
+    margin: 0;
+    display: block;
+    position: relative;
+    height: auto;
+    background: none;
+    text-align: center;
+  }
+}
+
+
+
+
+
+@media screen and (max-width: 534px){
+  .ce .ce-mate30-series-4g .bottom-banner {
+    height: 548px;
+    background: url(../img/mob.jpg) no-repeat top center;
+    background-size: cover;
+  }
+  .ce .ce-mate30-series-5g .bottom-banner {
+    height: 548px;
+    background: url(../img/mob-v2.jpg) no-repeat top center;
+    background-size: cover;
+  }
+  .ce .ce-mate30-series-4g .btn_contain {
+    text-align: center;
+    top: 25.5%;
+    max-width: 300px;
+  }
+  .ce .ce-mate30-series-5g .btn_contain {
+    text-align: center;
+    top: 28%;
+    max-width: 300px;
+  }
+  .ce .ce-mate30-series-4g .btn_contain .btn1,.ce .ce-mate30-series-5g .btn_contain .btn1 {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+  .ce .ce-mate30-series-4g .btn_contain .btn2,.ce .ce-mate30-series-5g .btn_contain .btn2 {
+    margin-right: 0;
+  }
+
+  .ce .ce-mate30-series-4g .btn_contain .btn,.ce .ce-mate30-series-5g .btn_contain .btn {
+    font-size: 1rem;
+  }
+
+  .ce .ce-mate30-series-4g .btn,.ce .ce-mate30-series-5g .btn {
+    padding: .5rem 1rem;
+  }
+
+  .ce .ce-porsche-design-mate30-rs .bottom-banner {
+    height: 548px;
+    background: url(../img/mob.png) no-repeat top center;
+    background-size: cover;
+  }
+
+  .ce .ce-p30-series .bottom-banner {
+    height: 548px;
+    background: url(../img/mob-0905.jpg) no-repeat top center;
+    background-size: cover;
+  }
+
+  .ce .ce-p30-series .btn_contain {
+    top: 30%;
+    margin-left: 51%;
+    max-width: 300px;
+  }
+
+  .ce .ce-p30-series .btn_contain .btn1 {
+    margin-left: 0;
+  }
+
+  .ce .ce-p30-series .btn_contain .btn {
+    font-size: .5rem;
+    padding: .5rem .5rem;
+  }
+
+  .ce .ce-nova5-series .bottom-banner {
+    height: 635px;
+    background: url(../img/nova5-series-mob.jpg) no-repeat top center;
+    background-size: cover;
+  }
+
+  .ce-nova5-series .btn-contain {
+    left: 0;
+    transform: none;
+    bottom: 5%;
+    text-align: center;
+  }
+
+  .ce-nova5-series .btn-contain .btn1 {
+    margin: 0;
+  }
+
+  .ce .ce-v65 .bottom-banner {
+    height: 548px;
+    background: url(../img/mob\ \(1\).jpg) no-repeat top center;
+    background-size: cover;
+  }
+}
+
